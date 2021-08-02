@@ -5,10 +5,10 @@ const dotenv = require('dotenv');
 
 dotenv.config();
 
-app.use(express.static(path.resolve('../frontend/build/')));
+app.use(express.static(path.resolve('./build/')));
 
 app.get('*', (req, res) => {
-  res.sendFile(path.resolve('../frontend/build/index.html'));
+  res.sendFile(path.resolve('./build/index.html'));
 });
 
 app.listen(process.env.PORT);
