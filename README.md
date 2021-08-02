@@ -6,19 +6,11 @@ Deployed on Heroku - https://sudokugame-app.herokuapp.com/game.
 
 Start page:
 
-![alt text](screenshots/start-page.png)
-
-Level selection:
-
-![alt text](screenshots/start-page-level.png)
-
-Size selection:
-
-![alt text](screenshots/start-page-size.png)
+![alt text](screenshots/start-pages.png)
 
 Game board:
 
-![alt text](screenshots/start-page-game.png)
+![alt text](screenshots/game.png)
 
 Solved board:
 
