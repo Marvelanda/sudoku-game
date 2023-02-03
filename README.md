@@ -1,6 +1,6 @@
 # sudoku-game
 A simple sudoku game - only desktop version as for now. 
-Used the following stack: html, scss, react, redux, typescript.
+Used the following stack: html, scss, react, typescript.
 
 Start page:
 
